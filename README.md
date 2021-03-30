@@ -6,7 +6,7 @@ This repository contains code and documentation used in the publication "XXX" by
 -2. QA of new data\
 -1. Sorting of raw DICOM data\
 0. Extraction of test dataset\
-0.5. Anonymization of dataset\
+0.5 Anonymization of dataset\
 1. Generation of Nifti files from DICOM raw data\
 2. Creation of dataset and database\
 2.5. QA of radiotherapy structures \
