@@ -10,6 +10,6 @@ This repository contains code and documentation used in the publication "XXX" by
 (2.) Creation of dataset and database\
 (2.5.)  QA of radiotherapy structures\
 (3.) Model training\
-(4.) Model inference\ 
+(4.) Model inference
 
 Contact: christian.JamtheimGustafsson@skane.se
