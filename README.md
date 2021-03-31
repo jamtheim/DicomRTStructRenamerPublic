@@ -1,5 +1,5 @@
 # DicomRTStructRenamerPublic
-Deep learning-based method for automated renaming and standardization of prostate DICOM radiotherapy structure annotations. \
+Deep learning-based method for automated renaming and standardization of prostate DICOM radiotherapy structure annotations. \\
 This repository contains code and documentation used in the publication "XXX" by Jamtheim Gustafsson et al. 2021 XXX. Please connect the numbers in the list below to the number in each file present in the repository folder. It represents the natural flow from data preparation to model inference. 
 
 (_2.) QA and integrity check of new data\
