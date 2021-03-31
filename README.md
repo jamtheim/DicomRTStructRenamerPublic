@@ -39,4 +39,4 @@ tensorboard-plugin-profile==2.2.0\
 tensorboard-plugin-wit==1.7.0\
 tensorflow-estimator==2.2.0\
 tensorflow-gpu==2.2.0\
-tf-keras-vis==0.5.5\
+tf-keras-vis==0.5.5
